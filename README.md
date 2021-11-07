@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vimal-vk
 - 👀 I’m interested in web development and data science
-- 🌱 I’m currently studying my Engineering
-- 💞️ I’m looking to intern or job
+- 🌱 I’m currently studying Computer Science Engineering
 - 📫 reach me using vimalkumarvk2002@gmail.com
