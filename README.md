@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vimal-vk
 - 👀 I’m interested in web development and data science
-- 🌱 I’m currently pursuing Computer Science Engineering
-- 📫 reach me using vimalkumarvk2002@gmail.com
+- 🌱 I’m currently working as Software Engineer at Zoho
+- 📫 reach me using vimal.baskar.20@gmail.com
